@@ -39,3 +39,6 @@ This project significantly elevated my proficiency in Power BI, DAX, and Advance
 # OUTPUT
 The final outcome of the Chocolate Shipments & Sales Performance Dashboard project is a professional-grade, interactive Business Intelligence solution that provides a complete financial and operational overview of the chocolate business.
 - <a href="https://app.powerbi.com/groups/me/reports/2f9e6299-ecd3-481b-82f2-36a54da1c27d/9a6be1914e287d55e302?experience=power-bi">Power BI</a>
+
+<img width="1208" height="671" alt="Class1_Dashboard_img" src="https://github.com/user-attachments/assets/86ef1d5d-7678-4b29-88f4-a146b1fbb33e" />
+
