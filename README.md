@@ -5,7 +5,7 @@
 # Data Set:
 - <a href="https://github.com/seerapunagasrinu/Project-1---Power-BI---Choc---Data-Analysis/blob/main/Class1_Dashboard_img.png">Dashboard image</a>
 
-#	Question Focused on What I Did	Expected Answer (Business Definition)
+# Question Focused on What I Did	Expected Answer (Business Definition)
 1	What is Profit in the context of this project, and how is it derived from the raw data?
 2	What does COGS (Cost of Goods Sold) represent for the chocolate products?
 3	Why did you need a separate Calendar table, and what problem does it solve for time-based analysis?
@@ -17,7 +17,7 @@
 9	What simple comparison does the Geographic Map Visual immediately enable for a business user?
 10	If a manager wants to know who is the best-performing team, which two columns from the Dimension Data did you link and aggregate to show this?
 
-- <a href="https://github.com/seerapunagasrinu/Project-1---Power-BI---Choc---Data-Analysis/blob/main/Class1_sample-chocolate-shipments-data-all-Apr-2025.xlsx">Data set</a>
+- <a href="https://github.com/seerapunagasrinu/Project-1---Power-BI---Choc---Data-Analysis/blob/main/Class1_sample-chocolate-shipments-data-all-Apr-2025.xlsx">Excel File</a>
 
 # PROCESSES 
 What I Really Did:
