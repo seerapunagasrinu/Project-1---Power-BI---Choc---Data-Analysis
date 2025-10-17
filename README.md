@@ -30,9 +30,13 @@
 
 # PROCESSES 
 What I Really Did:
-•	Data Engineering: Used Power Query to clean, shape, and unify three separate data sources (Shipments, Dimensions, Calendar) for analysis. 
+
+•	Data Engineering: Used Power Query to clean, shape, and unify three separate data sources (Shipments, Dimensions, Calendar) for analysis.
+
 •	Data Modelling: Engineered a highly efficient Star Schema model, creating clear, robust relationships crucial for accurate cross-table calculations.
+
 •	DAX Expertise: Developed custom DAX measures to calculate critical financial metrics, including Total Profit Margin and COGS, providing true profitability insights.
+
 •	Actionable Insights: Designed an intuitive dashboard visualizing sales trends over time, geographic distribution, and performance-based ranking for salespeople and teams.
 This project significantly elevated my proficiency in Power BI, DAX, and Advanced Data Modelling. Excited to leverage these skills in a new BI/Data Analyst role! 
 
